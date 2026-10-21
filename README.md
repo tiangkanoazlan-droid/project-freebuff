@@ -133,3 +133,7 @@ Buka <http://localhost:5173>.
 ## Lisensi
 
 Projek contoh untuk keperluan pembelajaran/manajemen proyek.
+
+
+<img width="1919" height="1149" alt="image" src="https://github.com/user-attachments/assets/c2fac239-7113-4c6d-a758-070d5058c1dd" />
+
